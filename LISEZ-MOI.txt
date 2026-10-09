@@ -1,0 +1,24 @@
+PORTFOLIO LIVA MARIO — V4
+=========================
+Ouvrir : double-cliquez sur index.html (connexion internet conseillée pour les polices).
+
+AJOUTER VOS MÉDIAS  (noms EXACTS, dans ces dossiers)
+----------------------------------------------------
+PROJET 01 — Manakara
+  assets/videos/projet-manakara.mp4     (la vidéo, format MP4/H.264)
+  assets/videos/projet-manakara.jpg     (image d'aperçu — déjà fournie)
+  assets/photos/manakara-01.jpg ... manakara-04.jpg
+
+PROJET 02 — Suivi de chantier
+  assets/videos/suivi-qualite.mp4
+  assets/videos/suivi-qualite.jpg       (aperçu, facultatif)
+  assets/photos/chantier-01.jpg ... chantier-04.jpg   (chantier-01 sert aussi de couverture)
+
+Tant qu'un fichier manque, un cadre de plan indique le nom attendu.
+
+PERSONNALISER LES TEXTES DES PROJETS
+------------------------------------
+Ouvrez js/main.js : le tableau PROJECTS (en haut) contient titres, descriptions,
+lieux, outils, légendes des photos et noms de fichiers. Modifiez, enregistrez, rechargez.
+
+COULEURS : variables en haut de css/style.css (:root).
